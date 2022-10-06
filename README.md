@@ -7,3 +7,4 @@ git remote add origin https://github.com/dev-poshhh/test-respository.git
 git push -u origin main
 
 This is a new edit from my local computer.
+This is another edit
